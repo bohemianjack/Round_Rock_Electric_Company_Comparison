@@ -1,0 +1,4 @@
+Veteran Energy (36 month), 0, 11.8077, 0, 0
+TXU (12 month), 9.95, 10.2, 0, 0
+Cirro Energy (12 month), 5, 7.039, 0, 0
+4 Change Energy (24 month), 0, 14.968, 1000, 100
